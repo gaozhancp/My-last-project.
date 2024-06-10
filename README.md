@@ -2,5 +2,4 @@
 
 Inilah ide untuk proyek saya:
 
-Saya akan membuat proyek Discord dengan cara menginformasikan Perubahan Iklim dan bagaimana cara menghambat atau menghentikan masalah ini.
-saya akan mengumpulkan gambar-gambar yang terkait dengan perubahan iklim dan solusi & cara untuk menghentikannya atau menghambatnya.
+Ide proyek saya adalah untuk membuat website mengenai perhitungan efesiensi energi kWh rumah. Hal ini diperlukan untuk membantu mencegah perubahan iklim yang drastis. 
